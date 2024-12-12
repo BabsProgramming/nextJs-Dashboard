@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Dashboard = ({ params }) => {
+const Dashboard = () => {
 
     return (
         <div>
